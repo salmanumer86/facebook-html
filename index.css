@@ -51,6 +51,7 @@ Input{
     display: flex;
     flex-direction: column;
     padding-bottom: 4%;
+    padding-left: 10px;
 }
 .linksDivStyle{
     display: flex;
@@ -111,6 +112,7 @@ Input{
         height: 40px;
         border-radius: 20px;
         margin-left: 5%;
+        margin-top: 5px;
     }
     #commentBox{
         margin-left: 2%;
@@ -144,6 +146,7 @@ Input{
     #friendListDiv{
         width: 20%;
         height: 100;
+        padding-left: 10px;
         background-color: #f0f2f5;
         /* border: solid 2px; */
         border-radius: 5px;
